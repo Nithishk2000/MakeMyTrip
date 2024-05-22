@@ -1,2 +1,4 @@
 Scenario 1 : Check in date
 Scenario 2 : Check out date
+Scenario 3 : Check in date
+Scenario 4 : Check out date
