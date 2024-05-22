@@ -1,2 +1,6 @@
 Scenario 1 : Check in date
 Scenario 2 : Check out date
+
+
+Scenario 5 : Check in date 1
+Scenario 6 : Check out datec2
