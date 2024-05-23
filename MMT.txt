@@ -6,4 +6,6 @@ Scenario 4 : Check out date
 //by nithish
 Scenario 5 : Check in date 1
 Scenario 6 : Check out datec2
+Scenario 7 : Check out date 123
+Scenario 8 : Checkout date 12345
 
